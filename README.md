@@ -1,2 +1,0 @@
-# avancr-proyecto
-# avance-proyectp
